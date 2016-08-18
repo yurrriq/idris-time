@@ -1,0 +1,22 @@
+package time
+
+modules    = Data.Time
+           , Data.Time.Calendar
+           , Data.Time.Clock
+           , Data.Time.LocalTime
+           , Data.Time.Format
+
+-- tests      =
+
+brief      = "A time library."
+version    = 0.0.1
+readme     = README.md
+license    = MIT
+author     = "Eric Bailey"
+
+homepage   = https://github.com/yurrriq/idris-time
+sourceloc  = https://github.com/yurrriq/idris=time
+bugtracker = https://github.com/yurrriq/idris-time/issues
+
+sourcedir  = lib
+-- opts       =
